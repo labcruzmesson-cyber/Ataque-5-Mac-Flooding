@@ -1,4 +1,4 @@
-#Ataque MAC Flooding
+# Ataque MAC Flooding
 ## 1. Objetivo del Laboratorio
 El objetivo fundamental de este laboratorio es comprender y evaluar el comportamiento de un conmutador de Capa 2 (Switch) cuando su memoria dinámica de almacenamiento de direcciones físicas queda completamente saturada. El ejercicio práctico permite analizar el estado de falla conocido como fail-open. En este estado, el switch agota su capacidad de asignación de direcciones y degrada su funcionamiento operativo, pasando de comportarse como un dispositivo de conmutación inteligente a actuar como un concentrador (Hub). Esto expone los graves riesgos de confidencialidad en la red local al permitir que cualquier equipo intercepte el tráfico de los demás hosts.
 
